@@ -22,6 +22,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=commerce&theme=algolia)](https://github.com/farhanazmiCS/commerce)
 
 ## &#128202; &nbsp;Github Stats
-[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanazmiCS&theme=algolia)](https://github.com/farhanazmiCS/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanazmiCS&layout=compact&theme=algolia)](https://github.com/farhanazmiCS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanazmiCS&theme=algolia)](https://github.com/farhanazmiCS/github-readme-stats)
