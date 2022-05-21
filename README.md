@@ -1,4 +1,10 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Hello there!</h1>
+
+Greetings stranger! Welcome to my repository, where you will see my skills and featured projects!
+
+## &#128211; &nbsp;Professional Profile and Contact
+![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/farhanazmi0017)
+![](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&color=grey&link=mailto:farhan.azmi0017@gmail.com)
 
 ## &#128187; &nbsp;Technology and Skills
 ### Languages
@@ -17,6 +23,7 @@
 ![](https://img.shields.io/badge/Libraries-Bootstrap-informational?style=for-the-badge&logo=bootstrap&color=7714a8)
 
 ## &#9999; &nbsp;Project Highlights
+### Full-Stack Web Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=trip-planner&theme=algolia)](https://github.com/farhanazmiCS/trip-planner)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=network&theme=algolia)](https://github.com/farhanazmiCS/network)
