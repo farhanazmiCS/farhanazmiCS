@@ -1,6 +1,6 @@
-<h1 align="center">Hello there!</h1>
+# Hello There!
 
-Greetings stranger! Welcome to my repository, where you will see my skills and featured projects!
+Welcome to my repository, where you will see my skills and featured projects!
 
 ## &#128211; &nbsp;Professional Profile and Contact
 ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/farhanazmi0017)
