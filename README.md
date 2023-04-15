@@ -9,10 +9,11 @@ Welcome to my repository, where you will see my skills and featured projects!
 ## &#128187; &nbsp;Technology and Skills
 ### Languages
 ![](https://img.shields.io/badge/Language-Python3-informational?style=for-the-badge&logo=python&color=blue)
+![](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&color=ffdd00)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=for-the-badge&logo=html5&color=ff6338)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=for-the-badge&logo=css3&color=386aff)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=for-the-badge&logo=sqlite&color=57a5f2)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&color=57a5f2)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Backend_Framework-Django-informational?style=for-the-badge&logo=django&color=006106)
@@ -33,6 +34,11 @@ Welcome to my repository, where you will see my skills and featured projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=mail&theme=algolia)](https://github.com/farhanazmiCS/mail)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=commerce&theme=algolia)](https://github.com/farhanazmiCS/commerce)
+
+### School Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=space-shooter-explorer-game&theme=algolia)](https://github.com/farhanazmiCS/Space-Shooter-Explorer-Game)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanazmiCS&repo=project-hotel-sentiment-analysis&theme=algolia)](https://github.com/farhanazmiCS/Project-Hotel-Sentiment-Analysis)
 
 ## &#128202; &nbsp;Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanazmiCS&theme=algolia)](https://github.com/farhanazmiCS/github-readme-stats)
